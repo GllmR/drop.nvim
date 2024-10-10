@@ -599,7 +599,7 @@ local themes = {
   },
   metz = {
     symbols = { "☨" },
-    colors ={
+    colors = {
       "#7fff00",
       "#FF1493",
     },
